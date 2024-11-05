@@ -1,3 +1,15 @@
+# Documentation
+## Premier commit
+    git init
+    git config --global init.defaultBranch main
+    git remote add origin git@github.com:Cldng6/gpt_local2.git
+    git add .
+    git commit -m "first commit"
+    git config user.email "mail"
+    
+
+
+
 # Construire l'image Docker
     docker build -t gpt-container .
 
