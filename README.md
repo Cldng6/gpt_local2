@@ -4,9 +4,9 @@
     git config --global init.defaultBranch main
     git remote add origin git@github.com:Cldng6/gpt_local2.git
     git add .
-    git commit -m "first commit"
     git config user.email "mail"
-    
+    git commit -m "first commit"
+    git push --set-upstream origin master
 
 
 
